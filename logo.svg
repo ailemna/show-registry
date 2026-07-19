@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none" role="img" aria-label="Ailemna">
+  <title>Ailemna</title>
+  <g fill="#4FB477">
+    <path d="M16 16C12 13 12 6.5 16 4.5 20 6.5 20 13 16 16Z" transform="rotate(45 16 16)"/>
+    <path d="M16 16C12 13 12 6.5 16 4.5 20 6.5 20 13 16 16Z" transform="rotate(135 16 16)"/>
+    <path d="M16 16C12 13 12 6.5 16 4.5 20 6.5 20 13 16 16Z" transform="rotate(225 16 16)"/>
+    <path d="M16 16C12 13 12 6.5 16 4.5 20 6.5 20 13 16 16Z" transform="rotate(315 16 16)"/>
+  </g>
+  <path d="M16 16C15.6 21 16.2 24.5 16 27.5" stroke="#2E7A4E" stroke-width="1.7" stroke-linecap="round" fill="none"/>
+</svg>

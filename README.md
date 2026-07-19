@@ -1,3 +1,5 @@
+<img src="logo.svg" alt="Ailemna" width="64" align="left" hspace="12">
+
 # SHOW registry
 
 Signed **golden Execution Profiles (EPs)** for models verified against **SHOW**
