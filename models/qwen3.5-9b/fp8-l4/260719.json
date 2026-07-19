@@ -2,7 +2,7 @@
   "payload": {
     "model_id": "qwen3.5-9b",
     "version": "260719",
-    "issued_at": "2026-07-19T15:43:29.672Z",
+    "issued_at": "2026-07-19T16:32:47.503Z",
     "weights_sha256": "0c0888cf6f5528d79e620ddb7118bd516c45276f2015b9c4c8d519e1c98be4a9",
     "config_sha256": "d0883072e01861ed0b2d47be3c16c36a8e81c224c7ffaa310c6558fb3f932b05",
     "tokenizer_sha256": "5f9e4d4901a92b997e463c1f46055088b6cca5ca61a6522d1b9f64c4bb81cb42",
@@ -11,11 +11,11 @@
     "gen_config_sha256": "2dc3ad1ff1991e5a1f0b67d95bce32f2193c8a8844ab07c6e437ac27611f4bbc",
     "precision": "fp8",
     "weights_source": "hf://Qwen/Qwen3.5-9B@c202236235762e1c871ad0ccb60c8ee5ba337b9a",
-    "image_digest": "sha256:dec1d141861a52eac813e5eb44b7e50d2cd485c7ba25e25baab7c0d47a330ea6",
+    "image_digest": "sha256:6ef65aea7c35a388d96c7901967d7292f951c9e7177194b14d06c6d9320d24bb",
     "engine_config_sha256": "b45c66f510c10de0d01754d46a9dc4f37788670cbfc856a3fd7bdda5ee6a081e",
     "gpu_class": "L4",
     "sku": "fp8-l4"
   },
-  "signature": "088bf0653b7a56c443c543cbc7f08d0d1e94ddef6d02f85c9f4bf21c5ab6b46076754243d953a28edb75a00f6dd099d7be3c76a16eada3a1b5fa91271438b00f",
+  "signature": "d923c08bf1225fa0b5a691a307459ca5e00acd12f5e31722bc8cbac491b34a7e318a6c40b86e60a972eeceecdcfdecb50388bc84c22d3a0f8ba39fd19022d70f",
   "steward_key_id": "ed25519:59c8f45d5d617645c3a85a4714036ddb"
 }
