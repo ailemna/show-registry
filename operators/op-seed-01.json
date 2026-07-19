@@ -1,0 +1,20 @@
+{
+  "payload": {
+    "operator_id": "op-seed-01",
+    "public_jwk": {
+      "key_ops": [
+        "verify"
+      ],
+      "ext": true,
+      "alg": "Ed25519",
+      "crv": "Ed25519",
+      "x": "_dqtHSxAmwvGVVClyrF2RJ9oFWzWfaxNBxmTCQNbjC8",
+      "kty": "OKP"
+    },
+    "key_id": "ed25519:0915e339207336c5f21042eb76564386",
+    "enrollment": "unverified",
+    "enrolled_at": "2026-07-19T15:13:19.500Z"
+  },
+  "signature": "70447aa9633567e2d41cb2e58c2303a88d6896ee12dfc12dbb3cb74a825b288855cd12b44322b03280c3a4f36696c5ef0c0324a8f8714b721409c4220a45900b",
+  "steward_key_id": "ed25519:59c8f45d5d617645c3a85a4714036ddb"
+}
