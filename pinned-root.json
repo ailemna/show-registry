@@ -1,0 +1,13 @@
+{
+  "keyId": "ed25519:59c8f45d5d617645c3a85a4714036ddb",
+  "publicJwk": {
+    "key_ops": [
+      "verify"
+    ],
+    "ext": true,
+    "alg": "Ed25519",
+    "crv": "Ed25519",
+    "x": "p488i1c7WWTOflxcrFJHQsn4kxFjPMnVGbI-FtKOUP4",
+    "kty": "OKP"
+  }
+}
