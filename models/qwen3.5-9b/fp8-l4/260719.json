@@ -2,18 +2,20 @@
   "payload": {
     "model_id": "qwen3.5-9b",
     "version": "260719",
-    "issued_at": "2026-07-19T13:43:13.462Z",
+    "issued_at": "2026-07-19T14:33:39.272Z",
     "weights_sha256": "0c0888cf6f5528d79e620ddb7118bd516c45276f2015b9c4c8d519e1c98be4a9",
     "config_sha256": "d0883072e01861ed0b2d47be3c16c36a8e81c224c7ffaa310c6558fb3f932b05",
     "tokenizer_sha256": "5f9e4d4901a92b997e463c1f46055088b6cca5ca61a6522d1b9f64c4bb81cb42",
+    "tokenizer_config_sha256": "316230d6a809701f4db5ea8f8fc862bc3a6f3229c937c174e674ff3ca0a64ac8",
     "chat_template_sha256": "a4aee8afcf2e0711942cf848899be66016f8d14a889ff9ede07bca099c28f715",
     "gen_config_sha256": "2dc3ad1ff1991e5a1f0b67d95bce32f2193c8a8844ab07c6e437ac27611f4bbc",
     "precision": "fp8",
     "weights_source": "hf://Qwen/Qwen3.5-9B@c202236235762e1c871ad0ccb60c8ee5ba337b9a",
-    "image_digest": "sha256:a928e4ea9f3afaf2a76f44e43b63280a7b3de392c2b8c5b40c092a518151cd3f",
+    "image_digest": "sha256:52c3664d72aca0156628a3d781012735b11c18db3a11ac003f753257830615fd",
     "engine_config_sha256": "e0a3e35913d7f45bd8a576bde914ab9c83cdc2db80fae34d8f84184844a1cf97",
-    "gpu_class": "L4"
+    "gpu_class": "L4",
+    "sku": "fp8-l4"
   },
-  "signature": "04a695459a14878194abda936af6afa980613ee0b7347f5f2b584a3f667a370054e9ad958fbee85e7f69ee04fae71dc2bc27cdebabf9a40d6c742afc87370704",
+  "signature": "ff4e85254c5534983a49e94915404e0ffd90c7842426b9c1c9d394a27a01d4dad6376a00409cd5a709b6518cd4109f3fdc8cb68355a778ac9b13ef54e041020d",
   "steward_key_id": "ed25519:59c8f45d5d617645c3a85a4714036ddb"
 }

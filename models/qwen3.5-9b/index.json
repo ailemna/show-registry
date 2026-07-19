@@ -1,0 +1,13 @@
+{
+  "model_id": "qwen3.5-9b",
+  "display": ":0",
+  "variants": [
+    {
+      "sku": "fp8-l4",
+      "precision": "fp8",
+      "gpu_class": "L4",
+      "latest": "260719",
+      "hint": "cheap / scale-to-zero"
+    }
+  ]
+}
