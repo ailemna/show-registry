@@ -3,6 +3,13 @@
   "display": ":0",
   "variants": [
     {
+      "sku": "fp8-ada",
+      "precision": "fp8",
+      "gpu_class": "ada-sm89",
+      "latest": "260719",
+      "hint": "cheap / scale-to-zero"
+    },
+    {
       "sku": "fp8-l4",
       "precision": "fp8",
       "gpu_class": "L4",
