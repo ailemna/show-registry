@@ -11,11 +11,11 @@
     "gen_config_sha256": "2dc3ad1ff1991e5a1f0b67d95bce32f2193c8a8844ab07c6e437ac27611f4bbc",
     "precision": "fp8",
     "weights_source": "hf://Qwen/Qwen3.5-9B@c202236235762e1c871ad0ccb60c8ee5ba337b9a",
-    "image_digest": "sha256:606f5fbbd85aee21f3d75ea80a4d1b92f5fa210b00926f6b680f3c6021e1dc85",
+    "image_digest": "sha256:76b9e088a74e97e3f66b53753269a1a037ef8cc3dc5d1eaf27e03cb1d62370bd",
     "engine_config_sha256": "b45c66f510c10de0d01754d46a9dc4f37788670cbfc856a3fd7bdda5ee6a081e",
     "gpu_class": "L4",
     "sku": "fp8-l4"
   },
-  "signature": "c460997d313540cd1b48815d244e3a7284352b21dff898ef03bcbf47dd712f52a6dd69dc0f71b8257690cd13a58a9c76a7a0c339f2c7739fdfb4e4a87a89c501",
+  "signature": "2d2e3871c78acc4bba7d25db4dd0fc06a7cee6e21acffbcaa9073bf40ed9586d9f838ad278d3d1d4ed97cb3f55716619749a43fa20647c82db834288ab5dcf0d",
   "steward_key_id": "ed25519:59c8f45d5d617645c3a85a4714036ddb"
 }

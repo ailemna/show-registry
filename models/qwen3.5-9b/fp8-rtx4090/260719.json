@@ -11,11 +11,11 @@
     "gen_config_sha256": "2dc3ad1ff1991e5a1f0b67d95bce32f2193c8a8844ab07c6e437ac27611f4bbc",
     "precision": "fp8",
     "weights_source": "hf://Qwen/Qwen3.5-9B@c202236235762e1c871ad0ccb60c8ee5ba337b9a",
-    "image_digest": "sha256:7af37b64fc5771273b53b4b4888dc6e9b7f7bca94863fc3230bb4af885f0d8e7",
+    "image_digest": "sha256:76b9e088a74e97e3f66b53753269a1a037ef8cc3dc5d1eaf27e03cb1d62370bd",
     "engine_config_sha256": "b45c66f510c10de0d01754d46a9dc4f37788670cbfc856a3fd7bdda5ee6a081e",
     "gpu_class": "RTX4090",
     "sku": "fp8-rtx4090"
   },
-  "signature": "b4ce8c1ac0c0100ac8cfa68018a6ff2cf3c132ada708dc2d4d0914cce4ed0452243816608fea259680895cb9927a525ea42b49e9f4b9a79ae5fec4e0f3e5fd02",
+  "signature": "1323ec7b8fec28e0ebe00f2dad07efc8b0776bb26a126e94a047425be2a52c579e57a1122a10210faed231f8abfb8d305d020a7d2269c9eac58493d825845a03",
   "steward_key_id": "ed25519:59c8f45d5d617645c3a85a4714036ddb"
 }
