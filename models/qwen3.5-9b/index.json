@@ -6,14 +6,14 @@
       "sku": "fp8-l4",
       "precision": "fp8",
       "gpu_class": "L4",
-      "latest": "260719",
+      "latest": "260721",
       "hint": "cheap / scale-to-zero"
     },
     {
       "sku": "fp8-rtx4090",
       "precision": "fp8",
       "gpu_class": "RTX4090",
-      "latest": "260719",
+      "latest": "260721",
       "hint": "cheap / scale-to-zero"
     }
   ]
