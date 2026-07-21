@@ -1,0 +1,21 @@
+{
+  "payload": {
+    "model_id": "qwen3.5-9b",
+    "version": "260722",
+    "issued_at": "2026-07-21T06:06:06.125Z",
+    "weights_sha256": "0c0888cf6f5528d79e620ddb7118bd516c45276f2015b9c4c8d519e1c98be4a9",
+    "config_sha256": "d0883072e01861ed0b2d47be3c16c36a8e81c224c7ffaa310c6558fb3f932b05",
+    "tokenizer_sha256": "5f9e4d4901a92b997e463c1f46055088b6cca5ca61a6522d1b9f64c4bb81cb42",
+    "tokenizer_config_sha256": "316230d6a809701f4db5ea8f8fc862bc3a6f3229c937c174e674ff3ca0a64ac8",
+    "chat_template_sha256": "a4aee8afcf2e0711942cf848899be66016f8d14a889ff9ede07bca099c28f715",
+    "gen_config_sha256": "1a040816643c3b48a5fd7d6b4f10205390ef22c36c80c04916ca6eb81bafdcc8",
+    "precision": "fp8",
+    "weights_source": "hf://Qwen/Qwen3.5-9B@c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+    "image_digest": "sha256:59ab119ded9a34a605492a67683f732856b91244109827757779061176489b5d",
+    "engine_config_sha256": "b45c66f510c10de0d01754d46a9dc4f37788670cbfc856a3fd7bdda5ee6a081e",
+    "gpu_class": "L4",
+    "sku": "fp8-l4"
+  },
+  "signature": "c411a04309401948795045dbb44bd6001f54da40aa6bd95430e37b2258b91c00dd4f5fd01b8c6e2b275f8eaff2d26312191942a247e2ed25fe06437ffa37cd0f",
+  "steward_key_id": "ed25519:59c8f45d5d617645c3a85a4714036ddb"
+}
